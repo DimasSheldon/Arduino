@@ -1,0 +1,3 @@
+Lock	KEYWORD1
+unlock	KEYWORD2
+lock	KEYWORD2
